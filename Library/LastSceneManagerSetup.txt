@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Cartoon/Outline/Outline1/Outline1.unity
+- path: Assets/Scenes/Cartoon/Outline/Outline2/Outline2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
