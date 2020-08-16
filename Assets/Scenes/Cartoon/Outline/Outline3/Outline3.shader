@@ -11,6 +11,8 @@
 
 		
 		Pass{
+			NAME "Outline3"
+
 			Cull Front
 
 			CGPROGRAM

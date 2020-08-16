@@ -10,6 +10,8 @@
 		Tags{"RenderType"="Opaque" "Queue"="Geometry"}
 
 		Pass{
+			NAME "Outline2_2"
+
 			Cull Front
 
 			CGPROGRAM

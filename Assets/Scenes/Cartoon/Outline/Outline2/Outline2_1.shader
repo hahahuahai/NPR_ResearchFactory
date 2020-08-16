@@ -10,6 +10,7 @@
 		Tags{"RenderType"="Opaque" "Queue"="Geometry"}
 
 		Pass{
+
 			Cull Back
 
 			CGPROGRAM
@@ -41,7 +42,9 @@
 
 			ENDCG
 		}
-		Pass{
+		Pass{		
+			NAME "Outline2_1"
+
 			Cull Front
 
 			CGPROGRAM

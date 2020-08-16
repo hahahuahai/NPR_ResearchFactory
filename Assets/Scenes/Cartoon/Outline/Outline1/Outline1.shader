@@ -2,7 +2,6 @@
 {
 	//基于观察角度和表面法线的轮廓线渲染
 	Properties{
-		_Color("Base Color", Color) = (0, 0, 0, 1)
 		_OutlineColor("Outline Color", Color) = (0, 0, 0, 1)
 		_OutlineWidth("Outline Width", float) = 0.8
 	}
@@ -10,6 +9,8 @@
 		Tags{ "RenderType"="Opaque" "Queue"="Geometry"}
 
 		Pass{
+			NAME "Outline1"
+
 			CGPROGRAM
 
 			#pragma vertex vert
@@ -17,7 +18,6 @@
 
 			#include "UnityCG.cginc"
 
-			float4 _Color;
 			float4 _OutlineColor;
 			float _OutlineWidth;
 
