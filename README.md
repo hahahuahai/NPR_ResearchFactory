@@ -1,4 +1,4 @@
-# NPR_Researchlab
+# NPR_ResearchFactory
 
 ## 一、简介
 
