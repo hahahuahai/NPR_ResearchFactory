@@ -17,6 +17,8 @@
 		Tags{"RenderType"="Opaque"}
 
 		Pass{
+			NAME "Shading1"
+			
 			CGPROGRAM
 
 			#pragma vertex vert
