@@ -30,4 +30,4 @@
 
 - 《Stylized highlights for cartoon rendering and animation》论文的卡通高光实现，[论文地址](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.6114&rep=rep1&type=pdf)：Shading2.unity
 
-![Stylized highlights for cartoon rendering and animation](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Shading1.png)
+![Stylized highlights for cartoon rendering and animation](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Shading2.png)
