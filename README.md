@@ -26,4 +26,8 @@
 
 - Gooch的面向工程图渲染的艺术化光照模型（即基于色调的渲染技术），[论文地址](https://dl.acm.org/doi/abs/10.1145/280814.280950)：Shading1.unity
 
-![基于过程几何轮廓线，深度偏置](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Shading1.png)
+![Gooch的面向工程图渲染的艺术化光照模型](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Shading1.png)
+
+- 《Stylized highlights for cartoon rendering and animation》论文的卡通高光实现，[论文地址](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.6114&rep=rep1&type=pdf)：Shading2.unity
+
+![Stylized highlights for cartoon rendering and animation](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Shading1.png)
