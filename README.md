@@ -22,7 +22,7 @@
 
 ![基于过程几何轮廓线，深度偏置](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Outline3.png)
 
-- 基于退化四边形的描边：Outline4.unity；（[参考资料]（https://blog.csdn.net/lht748/article/details/88680146)）
+- 基于退化四边形的描边：Outline4.unity；（[参考资料](https://blog.csdn.net/lht748/article/details/88680146)）
 
 ![基于退化四边形的描边](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Outline4.png)
 
