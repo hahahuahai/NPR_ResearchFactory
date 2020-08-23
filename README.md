@@ -22,6 +22,10 @@
 
 ![基于过程几何轮廓线，深度偏置](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Outline3.png)
 
+- 基于退化四边形的描边：Outline4.unity；（[参考资料]（https://blog.csdn.net/lht748/article/details/88680146)）
+
+![基于退化四边形的描边](https://github.com/hahahuahai/NPR_Researchlab/blob/master/images/Outline4.png)
+
 #### 1.2着色
 
 - Gooch的面向工程图渲染的艺术化光照模型（即基于色调的渲染技术），[论文地址](https://dl.acm.org/doi/abs/10.1145/280814.280950)：Shading1.unity
