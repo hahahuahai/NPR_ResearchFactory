@@ -34,8 +34,8 @@ Shader "Cartoon/Outline4/ProceduralGeometry" {
                 };
 
                 struct Line {
-                    int vertex1;
-                    int vertex2;
+                    int vertex1;// 两个三角形相交边线的一个点
+                    int vertex2;// 两个三角形相交边线的另一个点
                     int triangle1_vertex3;
                     int triangle2_vertex3;
                 };
@@ -56,7 +56,7 @@ Shader "Cartoon/Outline4/ProceduralGeometry" {
 
                     // is_edge只可能是0或者1
                     bool is_edge = 1;
-                    if (_line.triangle2_vertex3 > 0) { // 非边界边
+                    if (_line.triangle2_vertex3 > 0) { // 非边界边，即_line.triangle2_vertex3 = -1
                         float4 triangle2_vertex3 = float4(_Vertices[_line.triangle2_vertex3], 1.0f);
 
                         float3 v1 = vertex2 - vertex1;

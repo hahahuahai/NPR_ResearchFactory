@@ -72,7 +72,7 @@ Material:
     - _RotationX: 0
     - _RotationY: 0
     - _RotationZ: 0
-    - _ScaleX: 0
+    - _ScaleX: 0.56
     - _ScaleY: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1

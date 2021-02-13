@@ -65,7 +65,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scenes\Cartoon\Outline\Outline4\DegradedRectangles.cs" />
     <Compile Include="Assets\Scenes\Cartoon\Outline\Outline4\ProceduralGeometry.cs" />
+    <Compile Include="Assets\Scenes\Cartoon\Outline\Outline5\EdgeDetection.cs" />
+    <Compile Include="Assets\Scenes\Cartoon\Outline\Outline5\PostEffectsBase.cs" />
     <None Include="Assets\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_CosTime.shader" />
+    <None Include="Assets\Scenes\Cartoon\Outline\Outline5\Outline5.shader" />
     <None Include="Assets\AmplifyShaderEditor\Plugins\EditorResources\Previews\Preview_SimpleDivideOpNode.shader" />
     <None Include="Assets\AmplifyShaderEditor\Plugins\EditorResources\Templates\Legacy\UIDefault.shader" />
     <None Include="Assets\AmplifyShaderEditor\Plugins\EditorResources\Shaders\Unlit-ColoredAlpha.shader" />
